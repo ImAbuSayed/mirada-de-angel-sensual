@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/mirada-de-angel-sensual/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Mirada de ángel sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-angel-sensual/) |
+| **Get License** | [Secure Licensing Rights for Mirada de ángel sensual](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/mirada-de-angel-sensual/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8463628b075a5d69b92c8cbe6af72a1ad03d09921c100534944ac420e232cb1` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

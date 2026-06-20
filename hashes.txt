@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mirada de ángel sensual
+
+This log tracks the cryptographic history and versioning for the song **Mirada de ángel sensual** (mirada-de-angel-sensual).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T04:24:01.035215 | `v1` | `f8463628b075a5d69b92c8cbe6af72a1ad03d09921c100534944ac420e232cb1` | `66d13ac549965a84b226c4a38442142b536c981dab5c468380c7231ef3a95fa4` | `2026-06-21_mirada-de-angel-sensual-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
